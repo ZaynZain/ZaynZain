@@ -2,13 +2,20 @@
 <h3 align="center">Web Developer | Data Analyst | Python & SQL Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://linkedin.com/in/zaynzain">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://discord.gg/YOUR_INVITE_LINK">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:zayn69zain@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR-PORTFOLIO.com">
+  <a href="https://limegreen-sandpiper-189863.hostingersite.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
