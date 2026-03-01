@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zayn Ali</h1>
+<h1 align="center">Hi 👋, I'm Zain Ali</h1>
 <h3 align="center"> Data Analyst | Python & SQL | Web Developer Enthusiast</h3>
 
 <p align="center">
