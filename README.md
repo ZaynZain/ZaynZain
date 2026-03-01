@@ -91,7 +91,6 @@ Currently focused on improving my skills in advanced SQL optimization, data mode
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZaynZain&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaynZain&theme=tokyonight" height="160"/>
 </p>
 
 ---
