@@ -108,7 +108,8 @@ Currently focused on improving my skills in advanced SQL optimization, data mode
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/zaynzain  
-- 📧 Email: zayn69zain@gmial.com 
+- 📧 Email: zayn69zain@gmial.com
+- 📧 Email: contactzaindeveloper@gmail.com
 
 ---
 
