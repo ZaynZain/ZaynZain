@@ -73,8 +73,6 @@ Currently focused on improving my skills in advanced SQL optimization, data mode
 
 ## 🚀 Featured Projects
 
-## 💼 Professional Experience
-
 ### 🔹 Learning Management System (LMS) Development  
 **Company:** SMT Syntaxmatic Technologies SMC Ltd. Pvt.
 
