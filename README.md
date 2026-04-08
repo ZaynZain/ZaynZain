@@ -73,6 +73,34 @@ Currently focused on improving my skills in advanced SQL optimization, data mode
 
 ## 🚀 Featured Projects
 
+## 💼 Professional Experience
+
+### 🔹 Learning Management System (LMS) Development  
+**Company:** SMT Syntaxmatic Technologies SMC Ltd. Pvt.
+
+Worked on the development, customization, and reporting of **Learning Management Systems (LMS)** for multiple universities in Pakistan.  
+Responsibilities included database design, SQL reporting, student data management, and system customization for institutional requirements.
+
+#### 🏫 Universities Served
+- University of Okara (UO)
+- University of Chakwal (UOC)
+- National University of Sciences and Technology (NUST)
+- University of Engineering and Technology (UET), Taxila
+- Information Technology University (ITU), Lahore
+- Punjab Tianjin University of Technology (PTUT), Lahore
+- Fatima Jinnah Women University (FJWU), Rawalpindi
+- Government Sadiq College Women University, Bahawalpur
+- MNS University of Agriculture, Multan
+- Muhammad Nawaz Sharif University of Engineering & Technology, Multan
+- Imperial College of Business Studies, Lahore
+
+#### ⚙️ Key Contributions
+- Developed **SQL reports and analytics** for student academic data.
+- Worked on **LMS database structures** (students, programs, batches, courses, attendance).
+- Built **attendance and fee reporting systems**.
+- Optimized complex SQL queries for institutional reports.
+- Assisted in **system customization for university workflows**.
+
 ### 🔹 Old Car Price Prediction Model
 > ML model to predict used car prices using regression techniques.
 
