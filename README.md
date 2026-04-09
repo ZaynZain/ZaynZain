@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://limegreen-sandpiper-189863.hostingersite.com/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 </p>
 
 ---
